@@ -1,2 +1,2 @@
 ## Gatsby blog 
-WDeployed to netlify
+Deployed to [netlify](https://determined-goodall-008bfe.netlify.com)
